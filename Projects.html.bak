@@ -1,0 +1,127 @@
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Xianlin Wang</title>
+  <meta charset="UTF-8">
+  <meta name="Xiangyong's website" content="website description" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+
+  <link rel="stylesheet" type="text/css" href="normalize.css" title="style" />
+  <link rel="stylesheet" type="text/css" href="./style.css" title="style" />
+</head>
+
+<body>
+        <div id="main">
+                <div id="header">
+                  <div id="logo">
+                    <div id="logo_text">
+                      <!-- class="logo_colour", allows you to change the colour of the text -->
+                      <h1><a href="index.html">Xianlin Wang</a></h1>
+                      <h2><p style = "font-family:georgia,garamond,serif;font-size:14px;font-style:italic;"> 
+                        Ph.D. Candidate at Tongji University.</h2>
+                    </div>
+                  </div>
+                  <div id="menubar">
+                    <ul id="menu">
+                      <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+                      <li ><a href="index.html">Home</a></li>
+                      <li ><a href="Publications.html">Publications & Patents</a></li>
+					  <li class="selected"><a href="Projects.html">Projects</a></li>
+                      <li><a href="Gallery.html">Gallery</a></li>
+                      <li><a href="Contact.html">Contact</a></li>
+                    </ul>
+                  </div>
+                </div>
+    <div id="content_header"></div>
+    
+    
+    <div id="site_content">
+      
+
+
+
+      <div id="content">
+            <h1>Projects</h1>
+            <table >
+                <tr>
+                    <td><b>Investigation on the interfacial shear mechanism of Steel reinforced concrete composite bridge</b></td></tr>
+					<td align="left">Principal Investigator</td> <td align="right">Sep. 2018-Present</td></tr>
+                </tr>
+                <tr>
+                    <td colspan="2">&bull;  &nbsp;&nbsp;Conducted push-out tests on SRC specimens with or without connectors. </td></tr>
+					<td colspan="2">&bull;  &nbsp;&nbsp;Performed numerical research by using ABAQUS to further reveal the shear transferring mechanism at the steel-concrete interface.</td></tr>
+					<td colspan="2">&bull;  &nbsp;&nbsp;Published one research papers (First author, SCI Q1) and two conference papers.</td>
+				</tr>
+				
+
+                <tr>
+                    <td><b>Investigation on the static performance of pier-girder composite joint for composite rigid frame bridge</b></td></tr>
+					<td align="left">Principal Investigator</td> <td align="right">Dec. 2017-Present</td></tr>
+                </tr>
+                <tr>
+                    <td colspan="2">&bull;  &nbsp;&nbsp;Propesed a novel  composite joint with PBL connectors for composite rigid frame bridge. </td></tr>
+					<td colspan="2">&bull;  &nbsp;&nbsp;Performed numerical research by adopting ANSYS to investigate the load transfer mechanism between steel girder and concrete pier.</td></tr>
+					<td colspan="2">&bull;  &nbsp;&nbsp;Conducted theoretical study on such joint and derived simplified calculation formula. </td></tr>
+					<td colspan="2">&bull;  &nbsp;&nbsp;Carried out numerical simulation on the structural performance of the whole bridge by means of ANSYS and wrote calculation report.</td></tr>
+					<td colspan="2">&bull;  &nbsp;&nbsp;Published one utility model patent.</td>
+				</tr>
+
+
+
+                <tr>
+                    <td><b>Configuration and fatigue research on the central rigid hinge of ground-anchored cable-stayed bridge</b></td></tr>
+                   <td align="left">Principal Investigator</td> <td align="right">Apr. 2019-Present</td>
+                </tr>
+                <tr>
+                    <td colspan="2">&bull;  &nbsp;&nbsp; Wrote the technical research outline and project application. </td></tr>
+					<td colspan="2">&bull;  &nbsp;&nbsp;Wrote the research report.</td>
+				</tr>
+				
+				 <tr>
+                    <td><b>Study on the rational structure of the steel box girder in the Second Eastern Channel of Xiamen</b></td></tr>
+                   <td align="left">Assistant Researcher</td> <td align="right">May 2018-Present</td>
+                </tr>
+                <tr>
+					<td colspan="2">&bull;  &nbsp;&nbsp;Participated in the detailed finite element analysis of the Middle Fairway Bridge through ANSYS and the completion of the research report.</td>
+				</tr>
+				
+				
+				<tr>
+                    <td><b>Shear test of steel-concrete composite structure in immersed tunnel of Shenzhen-Zhongshan Link</b></td></tr>
+                   <td align="left">Assistant Researcher</td> <td align="right">Sep. 2018-Present</td>
+                </tr>
+                <tr>
+					<td colspan="2">&bull;  &nbsp;&nbsp;Attended the project seminar and assisted in the project application.</td>
+				</tr>
+                <tr>
+					<td colspan="2">&bull;  &nbsp;&nbsp;Participated in the shear model tests to reveal shear capacity and shear mechanism of Steel-Concrete-Steel sandwich structure with webs.</td>
+				</tr>
+
+				
+                    
+            </table>
+    </div>
+    </div>
+
+
+    <div id="content_footer"></div>
+    <div id="footer">
+
+  
+            <p><a href="index.html">Home</a> | 
+                <a href="Publications.html">Publications & Patents</a> | 
+				<a href="Projects.html">Projects</a>|
+                <a href="Gallery.html">Gallery</a>|
+                <a href="Contact.html">Contact</a>
+             </p>
+      
+      <p>Copyright &copy; Xianlin Wang  
+      </p>
+      <p>Updated on 28/10/2019</p>
+    </div>
+    </div>
+
+</body>
+</html>

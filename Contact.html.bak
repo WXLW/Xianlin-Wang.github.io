@@ -1,0 +1,87 @@
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Xianlin Wang</title>
+  <meta charset="UTF-8">
+  <meta name="Xianlin's website" content="website description" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+
+  <link rel="stylesheet" type="text/css" href="normalize.css" title="style" />
+  <link rel="stylesheet" type="text/css" href="./style.css" title="style" />
+</head>
+
+<body>
+        <div id="main">
+                <div id="header">
+                  <div id="logo">
+                    <div id="logo_text">
+                      <!-- class="logo_colour", allows you to change the colour of the text -->
+                      <h1><a href="index.html">Xianlin Wang</a></h1>
+                      <h2><p style = "font-family:georgia,garamond,serif;font-size:20px;font-style:italic;"> 
+                        Ph.D. Candidate at Tongji University.</h2>
+                    </div>
+                  </div>
+                  <div id="menubar">
+                    <ul id="menu">
+                      <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+                      <li ><a href="index.html">Home</a></li>
+                      <li ><a href="Publications.html">Publications & Patents</a></li>
+					  <li><a href="Projects.html">Projects</a></li>
+                      <li><a href="Gallery.html">Gallery</a></li>
+                      <li class="selected"><a href="Contact.html">Contact</a></li>
+                    </ul>
+                  </div>
+                </div>
+    <div id="content_header"></div>
+    <div id="site_content">
+
+
+      <div id="content">
+            <h1>Contact</h1>
+            <p>Collaborations and inquiries are welcomed to contact <strong>Xianlin Wang</strong></p>
+            <p>College of Civil Engineering, Tongji University</p>
+            <p>Address：No.1239, Siping Road, Yangpu District, Shanghai, China</p>
+            <p>TEL: +86 182-2108-6960</p>
+            <p> E-mail: 1810747@tongji.edu.cn</p>
+			<p> ResearGate: <a href="https://www.researchgate.net/profile/Xianlin_Wang" target="_blank" rel="noopener"> Xianlin Wang</a></p>
+			<p>Web of Science ResearcherID: </p>
+			<p>ORCID: </p>
+
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+   
+    </div>
+    </div>
+
+
+    <div id="content_footer"></div>
+    <div id="footer">
+
+  
+            <p><a href="index.html">Home</a> | 
+                <a href="Publications.html">Publications & Patents</a> | 
+				<a href="Projects.html">Projects</a>|
+                <a href="Gallery.html">Gallery</a>|
+                <a href="Contact.html">Contact</a>
+             </p>
+      
+      <p>Copyright &copy; Xianlin Wang  
+      </p>
+      <p>Updated on 28/10/2019</p>
+    </div>
+    </div>
+
+</body>
+</html>

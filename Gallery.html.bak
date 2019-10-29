@@ -1,0 +1,105 @@
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Xianlin Wang</title>
+  <meta charset="UTF-8">
+  <meta name="Xianlin's website" content="website description" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+
+  <link rel="stylesheet" type="text/css" href="normalize.css" title="style" />
+  <link rel="stylesheet" type="text/css" href="./style.css" title="style" />
+</head>
+
+<body>
+        <div id="main">
+                <div id="header">
+                  <div id="logo">
+                    <div id="logo_text">
+                      <!-- class="logo_colour", allows you to change the colour of the text -->
+                      <h1><a href="index.html">Xianlin Wang</a></h1>
+                      <h2><p style = "font-family:georgia,garamond,serif;font-size:14px;font-style:italic;"> 
+                        Ph.D. Candidate at Tongji University.</h2>
+                    </div>
+                  </div>
+                  <div id="menubar">
+                    <ul id="menu">
+                      <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+                      <li ><a href="index.html">Home</a></li>
+                      <li ><a href="Publications.html">Publications & Patents</a></li>
+					  <li><a href="Projects.html">Projects</a></li>
+                      <li class="selected"><a href="Gallery.html">Gallery</a></li>
+                      <li><a href="Contact.html">Contact</a></li>
+                    </ul>
+                  </div>
+                </div>
+    <div id="content_header"></div>
+    
+    
+    <div id="site_content">
+      
+
+
+      <div id="content">
+            <h1>Gallery</h1>
+            <table width="80%">
+                    <tr><td align="right" >5th Joint Workshop on Building / Civil Engineering between Tongji and Tokyo Tech, Tokyo, Japan. (Jul. 2018)</td></tr>
+					<tr> <td><img src="./Tokyo1.jpg" alt="" width="100%"></td></tr>
+					<tr> <td><img src="./Tokyo2.jpg" alt="" width="100%"></td></tr>
+					<tr> <td><img src="./Tokyo3.jpg" alt="" width="100%"></td></tr>
+                    <tr><td>   </td></tr>            	
+			        <tr><td align="right" >The 32nd KKHTCNN Symposium on Civil Engineering, Daejeon, Korea. (Oct. 2019)</td></tr>
+					<tr> <td><img src="./Korea1.jpg" alt="" width="100%"></td></tr>
+					<tr> <td><img src="./Korea2.jpg" alt="" width="100%"></td></tr>
+					<tr> <td><img src="./Korea3.jpg" alt="" width="100%"></td></tr>
+					<tr> <td><img src="./Korea4.jpg" alt="" width="100%"></td></tr>
+                    <tr><td>   </td></tr>
+                    <tr><td align="right" >New Crescent Bridge-2018 World University Students' Bridge Design Competition (Jun. 2018)</td></tr>
+					<tr> <td><img src="./zhouyue1.jpg" alt="" width="100%"></td></tr>
+					<tr> <td><img src="./zhouyue2.jpg" alt="" width="100%"></td></tr>					
+                    <tr><td>   </td></tr>
+                    <tr><td align="right" >Unison Bridge-2018 World University Students' Bridge Design Competition (Jun. 2018)</td></tr>
+					<tr> <td><img src="./tongxin1.jpg" alt="" width="100%"></td></tr>
+					<tr> <td><img src="./tongxin2.jpg" alt="" width="100%"></td></tr>
+					<tr> <td><img src="./tongxin3.jpg" alt="" width="100%"></td></tr>							
+                    <tr><td>   </td></tr>
+                    <tr><td align="right" >POPUP-Course work of "Footbridge construction" (Jun. 2018)</td></tr>
+					<tr> <td><img src="./Footbridge1.jpg" alt="" width="100%"></td></tr>
+					<tr> <td><img src="./Footbridge2.jpg" alt="" width="100%"></td></tr>		
+
+					
+                    <tr><td>   </td></tr>
+					<tr><td align="right" >Visiting Sutong Bridge, Jiangsu, China. (Nov. 2017)</td></tr>
+					<tr> <td><img src="./sutong.jpg" alt="" width="100%"></td></tr>
+                    <tr><td>   </td></tr>
+					<tr><td align="right" >Recitation performance on the 111th Anniversary Gala of Tongji University (Nov. 2017)</td></tr>
+					<tr> <td><img src="./recite1.jpg" alt="" width="100%"></td></tr>
+					<tr> <td><img src="./recite2.jpg" alt="" width="100%"></td></tr>					
+                    <tr><td>   </td></tr>
+
+               </table>
+
+    </div>
+    </div>
+
+
+    <div id="content_footer"></div>
+    <div id="footer">
+
+  
+            <p><a href="index.html">Home</a> | 
+                <a href="Publications.html">Publications & Patents</a> | 
+				<a href="Projects.html">Projects</a>|
+                <a href="Gallery.html">Gallery</a>|
+                <a href="Contact.html">Contact</a>
+             </p>
+      
+      <p>Copyright &copy; Xianlin Wang  
+      </p>
+      <p>Updated on 28/10/2019</p>
+    </div>
+    </div>
+
+</body>
+</html>
